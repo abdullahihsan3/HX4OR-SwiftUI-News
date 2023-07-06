@@ -11,7 +11,7 @@ The goal of this project was to learn about SwiftUI NavigationView, Navigation L
   <img src="https://user-images.githubusercontent.com/109294768/251229043-d5b0649a-e136-4089-88f8-f99a2aef8a19.png" width="200" height="400" />
 </p>
 
-## What I Learnt From This Application
+## What I Learned From This Application
 
 * How to fetch data from an API and display it in a view using SwiftUI.
 * Parsing the data and displaying it in a SwiftUI List
